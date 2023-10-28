@@ -94,6 +94,7 @@ mcfg_sw/generic/eu/vodafone/volte/italy/mcfg_sw.mbn
 mcfg_sw/generic/eu/vodafone/volte/netherla/mcfg_sw.mbn
 mcfg_sw/generic/eu/vodafone/volte/portugal/mcfg_sw.mbn
 mcfg_sw/generic/eu/vodafone/volte/spain/mcfg_sw.mbn
+mcfg_sw/generic/eu/vodafone/vee/commerci/mcfg_sw.mbn
 mcfg_sw/generic/eu/vodafone/volte/turkey/mcfg_sw.mbn
 mcfg_sw/generic/eu/vodafone/volte/uk/mcfg_sw.mbn
 mcfg_sw/generic/eu/vodafone/volte/greece/mcfg_sw.mbn
