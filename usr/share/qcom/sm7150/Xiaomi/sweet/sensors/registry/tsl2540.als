@@ -1,0 +1,1 @@
+{"tsl2540.als":{"owner":"sns_tsl2540","config":{"type":"grp","ver":"0","data":""}}}
